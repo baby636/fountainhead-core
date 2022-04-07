@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^3.2.2",
     "bignumber.js": "^8.1.1",
     "bitcoind-rpc": "^0.7.2",
     "bitcore-lib-cash": "^8.6.0",
