@@ -21,7 +21,7 @@
     "json-pointer": "^0.6.0",
     "mingo": "^2.2.4",
     "mongodb": "^3.1.4",
-    "node-jq": "^1.6.0",
+    "node-jq": "^2.3.5",
     "sinon": "^7.3.2",
     "traverse": "^0.6.6",
     "zeromq": "^5.1.0"
@@ -32,6 +32,6 @@
     "deep-diff": "^1.0.2",
     "eslint": "^5.7.0",
     "mocha": "^5.2.0",
-    "rewire": "^4.0.1"
+    "rewire": "^5.0.0"
   }
 }
