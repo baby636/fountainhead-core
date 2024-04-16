@@ -12,7 +12,7 @@
     "async": "^2.6.2",
     "bignumber.js": "^8.1.1",
     "bitcoind-rpc": "^0.7.2",
-    "bitcore-lib-cash": "^8.6.0",
+    "bitcore-lib-cash": "^8.22.2",
     "child_process": "^1.0.2",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
@@ -22,7 +22,7 @@
     "mingo": "^2.2.4",
     "mongodb": "^3.1.4",
     "node-jq": "^1.6.0",
-    "sinon": "^7.3.2",
+    "sinon": "^16.1.2",
     "traverse": "^0.6.6",
     "zeromq": "^5.1.0"
   },
