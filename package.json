@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^3.0.0",
     "bignumber.js": "^8.1.1",
     "bitcoind-rpc": "^0.7.2",
-    "bitcore-lib-cash": "^8.6.0",
+    "bitcore-lib-cash": "^10.0.28",
     "child_process": "^1.0.2",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
@@ -20,18 +20,18 @@
     "ip": "^1.1.5",
     "json-pointer": "^0.6.0",
     "mingo": "^2.2.4",
-    "mongodb": "^3.1.4",
-    "node-jq": "^1.6.0",
+    "mongodb": "^3.3.0",
+    "node-jq": "^6.0.1",
     "sinon": "^7.3.2",
     "traverse": "^0.6.6",
-    "zeromq": "^5.1.0"
+    "zeromq": "^5.2.5"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.10",
     "chai-spies": "^1.0.0",
     "deep-diff": "^1.0.2",
-    "eslint": "^5.7.0",
+    "eslint": "^8.46.0",
     "mocha": "^5.2.0",
-    "rewire": "^4.0.1"
+    "rewire": "^7.0.0"
   }
 }
